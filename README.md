@@ -9,7 +9,10 @@ Cada jurado pode fornecer uma nota de um (1) a dez (10); A média é calculada c
 Para resolver esse problema, foi criado um código que:
 
 1.Recebe o nome e as notas dos atletas;
+
 2.Ordena as notas em ordem crescente para facilitar a retirada da maior e da menor nota;
+
 3.Calcula a média com base nas três notas do meio;
+
 4.Apresenta o resultado ao usuário
 
